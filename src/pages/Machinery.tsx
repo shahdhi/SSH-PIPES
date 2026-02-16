@@ -12,7 +12,7 @@ export default function Machinery() {
       name: 'JCB Excavator',
       category: 'Heavy Excavation',
       description: 'High-performance excavator for heavy-duty excavation, trenching, and major construction projects.',
-      image: '/Images/jcb.jpg',
+      image: '/Images/JCB.jpg',
       specs: [
         'Operating weight: 32 tons',
         'Bucket capacity: 1.2 cubic meters',
