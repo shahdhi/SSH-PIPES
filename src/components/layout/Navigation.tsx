@@ -42,7 +42,7 @@ export default function Navigation({ isScrolled }: NavigationProps) {
               alt="Samson Hume pipes logo"
               className="w-12 h-12 object-contain"
             />
-            <span className="hidden sm:inline">Samson Hume pipes</span>
+            <span className="inline text-base sm:text-2xl font-bold whitespace-nowrap">Samson Hume pipes</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-8">
