@@ -57,7 +57,7 @@ export default function Products() {
     {
       title: 'Interlock Pavers',
       description: 'Decorative interlocking concrete pavers for driveways, pathways, and public spaces. Available in multiple designs and colors.',
-      image: '/images/interlock.jpg',
+      image: '/Images/interlock.jpg',
       specs: [
         'Multiple design patterns',
         'Various color options',
@@ -69,7 +69,7 @@ export default function Products() {
     {
       title: 'Road Curbs',
       description: 'Professional road curbs and edge stones for highway and urban infrastructure projects. Durable, weather-resistant, and perfectly aligned.',
-      image: '/images/Road-Curb.jpg',
+      image: '/Images/Road-Curb.jpg',
       specs: [
         'Length: 500mm to 1000mm',
         'Height: 200mm to 300mm',
